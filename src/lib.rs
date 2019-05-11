@@ -1,5 +1,4 @@
 #![feature(rustc_private)]
-extern crate libc;
 
 #[cfg(test)]
 mod tests;
