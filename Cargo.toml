@@ -1,0 +1,8 @@
+[package]
+name = "low_mem_alloc"
+version = "0.1.0"
+authors = ["Christoph Charles <c.charles.dev@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2"
